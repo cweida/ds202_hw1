@@ -1,0 +1,30 @@
+---
+title: "hw1.Rmd"
+author: "Chase Weida; Github: cweida"
+date: 1/15/2020
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+## Data Science Related Career
+[Business Analysts](https://www.kingland.com/internships) are a part of the Kingland Data Science team. They serve as a portal between the **data oriented** needs of clients and the development team of Kingland. They use different data manipulation and visualization oriented packages in *R* and *Python* to perform prescriptive analysis for clients. Business Analysts represent the more people oriented aspect of the field. Effective communication and people skills are need in order to properly interact with clients.
+
+![Business Analyst Plan](./Images/Prescriptive Analysis.png)
+
+
+## R Code Version Check
+I am running:
+``` {r echo = FALSE} 
+version 
+```
+    
+## Git Version Check
+I am running Git version:
+```{bash echo = FALSE}
+git --version
+```
+
+
+    
