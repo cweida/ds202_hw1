@@ -1,0 +1,20 @@
+---
+title: "DS202 Lab 1"
+author: "Bernard Fay"
+date: "1/27/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Name: Bernard Fay
+
+github: bj99fay
+
+He uploaded hw1 in his most recent commit.
+
+I had an error knitting, but it was due to an embedded bash script. This isn't much of an issue as this part was not required for submission. Removing this part allows it to be knitted properly.
+
+A GUI would make using github much easier when fixing errors relating to git.
