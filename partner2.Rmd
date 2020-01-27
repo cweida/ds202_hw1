@@ -1,0 +1,22 @@
+---
+title: "DS202 Lab 1"
+author: "Ann Gould"
+date: "1/27/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Name: Ann Gould
+
+github: gould-ann
+
+Since we are a group of three at the moment the latest commit was Bernard adding the partner files.
+
+Commit id: c74849771163a465b9b8ca5713169b9dbe994f68
+
+I was able to knit both the partner.Rmd and hw1.Rmd file.
+
+Emphasis on working on code separately to avoid merge conflicts would help with git
